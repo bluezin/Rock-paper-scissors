@@ -1,3 +1,7 @@
+# Challenge : Rock-paper-scissors 
+
+![rock-paper-scissors]"https://raw.githubusercontent.com/LeonidasEsteban/rock-paper-scissors-react/master/design/desktop-preview.jpg"
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
