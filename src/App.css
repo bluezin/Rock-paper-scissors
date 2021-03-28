@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@600;700&display=swap");
+:root {
+  --ScissorsGradient: hsl(39, 89%, 49%) to hsl(40, 58%, 62%);
+  --PaperGradient: hsl(230, 89%, 62%) to hsl(230, 89%, 65%);
+  --RockGradient: hsl(349, 71%, 52%) to hsl(349, 70%, 56%);
+  --LizardGradient: hsl(261, 73%, 60%) to hsl(261, 72%, 63%);
+  --Cyan: hsl(189, 59%, 53%) to hsl(189, 58%, 57%);
+  --DarkText: hsl(229, 25%, 31%);
+  --ScoreText: hsl(229, 64%, 46%);
+  --HeaderOutline: hsl(217, 16%, 45%);
+  --RadialGradient: hsl(214, 47%, 23%);
+  --gradient: hsl(237, 49%, 15%);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  color: white;
+  background-image: radial-gradient(circle at top, #1f3757 150%, #131537 150%);
+  font-family: "Barlow Semi Condensed", sans-serif;
+  overflow-x: hidden;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 10px;
+}
