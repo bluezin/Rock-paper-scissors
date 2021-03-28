@@ -1,6 +1,6 @@
 # Challenge : Rock-paper-scissors 
 
-![rock-paper-scissors]"https://raw.githubusercontent.com/LeonidasEsteban/rock-paper-scissors-react/master/design/desktop-preview.jpg"
+![rock-paper-scissors](https://raw.githubusercontent.com/LeonidasEsteban/rock-paper-scissors-react/master/design/desktop-preview.jpg)
 
 # Getting Started with Create React App
 
